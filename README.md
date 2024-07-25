@@ -10,3 +10,10 @@ backend/
   ├── Dockerfile
   ├── package.json
 
+#### Task3
+env Sample
+PORT=
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
