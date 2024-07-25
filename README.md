@@ -1,12 +1,11 @@
 #### Task1
-npm init -y
-npm install express cors axios
+npm install
+node ./src/app.js
 
 #### Task2
 - Directory Structure
 backend/
   ├── src/
-      ├── routes/
       ├── app.js
   ├── Dockerfile
   ├── package.json
